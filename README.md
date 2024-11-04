@@ -12,4 +12,3 @@ Graphics project with keypress drawling controls with the ability to save images
 
 ## Term 2
 
-
